@@ -1,0 +1,2 @@
+flake8==7.3.0 
+# (opcional) só em ambiente de desenvolvimento (máquina do dev)
